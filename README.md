@@ -1,9 +1,5 @@
-# About Me ✨
+# About Me ✨  
 
-
-**j-champ/j-champ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 🎓 1st Year IT Student at Vasavi College  
 💻 Beginner in Backend Dev & Competitive Programming (C++)  
 🌱 Currently Learning: HTML, CSS, Git & GitHub  
